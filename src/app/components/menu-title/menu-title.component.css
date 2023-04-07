@@ -9,6 +9,7 @@
   font-size: 135px;
   display: flex;
   justify-content: center;
+  background-color: #ec1d24;
 }
 
 .container__menu-title > hr {
